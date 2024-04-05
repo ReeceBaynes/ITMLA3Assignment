@@ -1,0 +1,1 @@
+Please be advised all the code runs but it needs time to get through the ammount of images it will print out where and what it is doing
